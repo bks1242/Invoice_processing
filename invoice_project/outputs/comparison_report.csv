@@ -1,0 +1,6 @@
+file_name,field,pipeline_a,pipeline_b,match
+batch1-0331.jpg,seller_name,Johnson-Brooks,Johnson-Brooks,TRUE
+batch1-0331.jpg,seller_tax_id,964-92-2746,964-92-2746,TRUE
+batch1-0331.jpg,invoice_number,51467723,51467723,TRUE
+batch1-0331.jpg,net_worth,96817.20,96817.20,TRUE
+batch1-0331.jpg,gross_worth,106498.92,106498.92,TRUE

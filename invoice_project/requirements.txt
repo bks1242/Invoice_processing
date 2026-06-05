@@ -1,0 +1,7 @@
+easyocr
+pandas
+openai
+opencv-python
+numpy
+python-dotenv
+tqdm
